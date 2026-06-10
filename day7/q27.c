@@ -12,5 +12,5 @@ int main()
     printf("Enter a number:");
     scanf("%d",&num);
     printf("The sum of digits of a number %d is %d\n",num,sumDigits(num));    //to print the return value of funtion
-    return 0;
+ return 0;
 }
